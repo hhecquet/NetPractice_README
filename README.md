@@ -17,12 +17,13 @@ What I had to do:
 * Solve increasingly complex exercises using a visual interface provided by 42
 * Ensure all devices in a network could communicate as intended, including across routers and subnets
 * Debug misconfigured topologies and fix broken network routes
-* To achieve this, I had to:
-  * Calculate network and broadcast addresses
-  * Determine usable IP ranges within subnets
-  * Assign IPs in a way that avoided conflicts and respected routing rules
-  * Understand how routers forward packets and what makes a connection fail
-  * Think logically through each setup, from simple peer-to-peer networks to multi-router topologies
+  
+To achieve this, I had to:
+* Calculate network and broadcast addresses
+* Determine usable IP ranges within subnets
+* Assign IPs in a way that avoided conflicts and respected routing rules
+* Understand how routers forward packets and what makes a connection fail
+* Think logically through each setup, from simple peer-to-peer networks to multi-router topologies
 
 What I Learned:
 * Deep understanding of IPv4 addressing, CIDR notation, and subnetting
